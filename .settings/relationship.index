@@ -1,0 +1,46 @@
+[ {
+  "baseItem" : {
+    "id" : "_PACooC6eEe27EvugueXQaw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Fum5gC6eEe27EvugueXQaw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Fum5gC6eEe27EvugueXQaw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_cC7GAPhtEeygncIRhRdWsA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_dj3UUPhtEeygncIRhRdWsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dj3UUPhtEeygncIRhRdWsA - logged_actions",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ngcKsP7aEey0CuP8FSG9Jw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_tsdoEP7aEey0CuP8FSG9Jw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tsdoEP7aEey0CuP8FSG9Jw - OMNICDC_CLIENTS_CT",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
